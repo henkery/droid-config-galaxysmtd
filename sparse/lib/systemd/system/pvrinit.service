@@ -1,0 +1,7 @@
+[Unit]
+Requires=new dependency
+After=new dependency
+
+[Service]
+ExecStart=
+ExecStart=new command

@@ -1,3 +1,5 @@
+keycode 116 = Power WAKE
+keycode 102 = Home WAKE
 keycode 114 = VolumeDown
 keycode 115 = VolumeUp
 keycode 163 = MediaNext
